@@ -1,0 +1,30 @@
+#demo{
+    width: 200px;
+    height: 200px;
+    background: red;
+    float: left;
+    transition: 0.5s;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+
+#demo2{
+    width: 200px;
+    height: 200px;
+    background: green;
+    float: right;
+    transition: 0.5s;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
